@@ -1,0 +1,53 @@
+body {
+  background-color: #c8c3cc;
+
+}
+h1 {
+  text-align: center;
+  color: #563f46;
+
+}
+div {
+  color:white;
+  font-size: 1em;
+  line-height: 1.25em
+}
+h2 {
+  color: white;
+}
+ p {
+   color:white;
+ }
+ ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #b8a9c9;
+ }
+
+ li {
+   float: left;
+ }
+
+ li a {
+   display: block;
+   color: ;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+ }
+
+ /* Change the link color to #111 (black) on hover */
+ li a:hover {
+   background-color: #d6d4e0;
+ }
+ .active {
+   background-color: #d6d4e0;
+ }
+ h2 {u8888
+   color: white;
+ }
+  p {
+    color:white;
+  }
